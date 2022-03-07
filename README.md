@@ -29,6 +29,7 @@ Enjoy ! 🎊
 
 ##  ● My work tools 🛠
 [![Mac Badge](https://img.shields.io/badge/Apple-MacBook_Air_M1-999999?style=for-the-badge&logo=apple&logoColor=white)](#) 
+[![Win Badge](https://img.shields.io/badge/Windows-Thinkpad_L450-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#) 
 [![Linux Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](#) 
 	
 

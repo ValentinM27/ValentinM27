@@ -1,24 +1,30 @@
-# Hi, I'm Valentin 🙂
+# Hi, I'm Valentin
 
-<!--
-**ValentinM27/ValentinM27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is my GitHub profile 🙋‍♂️
 
-Here are some ideas to get you started:
+French Computer Science student, I'm passionate about web stuffs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm working with several front and back technologies such as React.JS, Node.JS, Java, SCSS ...
 
-## My Statistics 📊
+## ● Contact 📞
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valentinm27)](https://github.com/anuraghazra/github-readme-stats)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentin-marguerie/)
 
-## My most used languages 💻
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/valentin_marguerie/)
+
+
+## ● My top technologies 🔝
+
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
+[![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#) 
+[![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#) 
+
+## ● My Statistics 📊
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentinm27&layout=compact&theme=tokyonight&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+### Public projects 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valentinm27&show_icons=true&theme=tokyonight)
+

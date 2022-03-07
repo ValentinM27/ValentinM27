@@ -28,7 +28,7 @@ Enjoy ! 🎊
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=valentinm27&layout=compact&theme=calm&hide=css,HTML)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valentinm27&show_icons=true&theme=calm&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valentinm27&show_icons=true&theme=calm&count_private=true&show_icons=true)
 
 ## ●  Streaks 🔥
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=valentinm27&theme=calm)](https://git.io/streak-stats)

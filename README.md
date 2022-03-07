@@ -2,9 +2,11 @@
 
 This is my GitHub profile 🙋‍♂️
 
-French Computer Science student, I'm passionate about web stuffs
+French Computer Science student based in Dijon 🇫🇷, I'm passionate about web stuffs 🌍 <br />
+I'm working with several front and back technologies such as React.JS, Node.JS, Java, SCSS ... <br /> 
 
-I'm working with several front and back technologies such as React.JS, Node.JS, Java, SCSS ...
+Enjoy ! 🎊
+
 
 ## ● Contact 📞
 
@@ -23,13 +25,13 @@ I'm working with several front and back technologies such as React.JS, Node.JS, 
 
 ## ● My Statistics 📊
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=valentinm27&layout=compact&theme=tokyonight)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=valentinm27&layout=compact&theme=calm)
 
 
 ### Public projects 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valentinm27&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valentinm27&show_icons=true&theme=calm)
 
 ## ●  Streaks 🔥
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=valentinm27&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=valentinm27&theme=calm)](https://git.io/streak-stats)
 
 

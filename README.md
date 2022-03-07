@@ -26,7 +26,7 @@ Enjoy ! 🎊
 
 ## ● My Statistics 📊
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=valentinm27&layout=compact&theme=calm)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=valentinm27&layout=compact&theme=calm&hide=css,HTML)
 
 
 ### Public projects 

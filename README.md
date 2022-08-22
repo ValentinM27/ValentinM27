@@ -40,7 +40,7 @@ Enjoy ! 🎊
 
 ## ● My Statistics 📊
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=valentinm27&layout=compact&count_private=true&theme=calm&hide=css,HTML)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=valentinm27&layout=compact&count_private=true&theme=calm&hide=css,HTML,Blade)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valentinm27&show_icons=true&theme=calm&count_private=true&show_icons=true)
 

@@ -3,21 +3,21 @@
 This is my GitHub profile 🙋‍♂️
 
 French Computer Science student based in Dijon 🇫🇷, I'm passionate about web stuffs 🌍 <br />
-I'm working with several front and back technologies such as React.JS, Node.JS, Java, SCSS ... <br /> 
+I'm working with several front and back technologies such as React.JS, Next.JS, Node.JS ... <br /> 
 
 Enjoy ! 🎊
 
 
-## ● Contact 📞
+## Contact 📞
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentin-marguerie/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/valentin_marguerie/)
 
-## ● My top languages 🔝
-[![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#) 
-[![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#) 
-[![JAVA Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#) 
+## My top languages 🔝
+[![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#)
+[![JS Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#) 
+[![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#)
 
-## ● My favorites Frameworks/Tools ⚙️
+## My favorites Frameworks/Tools ⚙️
 ### Front-end
 [![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#) 
 [![Vue Badge](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](#) 
@@ -28,23 +28,9 @@ Enjoy ! 🎊
 
 ### Databases
 [![Postgres Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](#) 
-[![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](#) 
-
-##  ● My work tools 🛠
-[![Mac Badge](https://img.shields.io/badge/Apple-MacBook_Air_M1-999999?style=for-the-badge&logo=apple&logoColor=white)](#) 
-[![Vim Badge](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)](#)
-
-[![Linux Badge](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](#) 
-[![Win Badge](https://img.shields.io/badge/Windows-Thinkpad_L450-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#) 
+[![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#) 
 	
-
-## ● My Statistics 📊
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=valentinm27&layout=compact&count_private=true&theme=calm&hide=css,HTML,Blade)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valentinm27&show_icons=true&theme=calm&count_private=true&show_icons=true)
-
-## ●  Streaks 🔥
+## Streaks 🔥
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=valentinm27&theme=calm)](https://git.io/streak-stats)
 
 

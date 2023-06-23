@@ -2,7 +2,7 @@
 
 This is my GitHub profile 🙋‍♂️
 
-French Computer Science student based in Dijon 🇫🇷, I'm passionate about web stuffs 🌍 <br />
+French Web developer based in Dijon 🇫🇷, <br />
 I'm working with several front and back technologies such as React.JS, Next.JS, Node.JS ... <br /> 
 
 Enjoy ! 🎊

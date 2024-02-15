@@ -13,6 +13,9 @@ Hello there!
 ## Contact 📞
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentin-marguerie/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/valentin_marguerie/)
-	
+
+## Streaks 🔥
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=valentinm27&theme=calm)](https://git.io/streak-stats)
+ 
 ## Top languages
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=valentinm27&layout=compact&count_private=true&theme=calm&hide=css,SCSS,HTML,Blade,Java,Dart,C%23)
